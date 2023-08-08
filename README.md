@@ -1,13 +1,12 @@
 # *Falling Apart*
-### Двухмерный приключенческий платформер с увлекательными головоломками и чарующим саундтреком. 
-### Вместе с очаровательным главным героем вам предстоит окунуться в атмосферную зимнюю историю о разочаровании и поиске надежды. Перемещайте блоки, собирайте леденцы и распадайтесь, чтобы помочь главному герою найти выход!
+### 2D adventure platformer with captivating puzzles and an enchanting soundtrack.
+### Together with the charming main character, you will plunge into an atmospheric winter story about disappointment and the search for hope. Move blocks, collect candies and fall apart to help the main character find a way out!
 ___
-Команда разработчиков:
-
-+ Давлятшин Георгий - программист, геймдизайнер(https://t.me/GeorgeD615)
-+ Бакирова Анна - программист, геймдизайнер(https://t.me/nishtyak_prosak)
-+ Смирнягина Настасья - арт-дизайнер(https://t.me/curly_stasya)
-+ Максимова Екатерина - автор саундтрека
+Credits:
+George Davlyatshin(https://t.me/GeorgeD615) - Design & Programming
+Bakirova Anna(https://t.me/nishtyak_prosak) - Design & Programming
+Nastasya Smirnyagina(https://t.me/curly_stasya) - Art
+Maximova Katharine -Music
 
 Download: https://georgedavlyatshin.itch.io/falling-apart
         
